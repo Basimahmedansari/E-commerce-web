@@ -1,0 +1,2989 @@
+[
+  {
+    "id": "perfume-01",
+    "name": "Oud Noir Imperial",
+    "category": "perfumes",
+    "price": 320,
+    "originalPrice": 380,
+    "rating": 4.9,
+    "reviewsCount": 142,
+    "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A deep, mysterious formulation blending dark Cambodian oud with smoky leather and velvety Bulgarian rose.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml Extrait",
+      "100ml Extrait",
+      "200ml Flacon"
+    ],
+    "specs": {
+      "Top Notes": "Saffron, Bergamot",
+      "Heart Notes": "Bulgarian Rose, Smoke",
+      "Base Notes": "Oud Wood, Amber, Leather",
+      "Concentration": "Extrait de Parfum (30%)"
+    },
+    "features": [
+      "Hand-bottled in Grasse, France",
+      "Gold-leaf 24k stamped cap",
+      "Macerated for 90 days"
+    ]
+  },
+  {
+    "id": "perfume-02",
+    "name": "Santal Majestueux",
+    "category": "perfumes",
+    "price": 290,
+    "rating": 4.8,
+    "reviewsCount": 98,
+    "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Creamy Australian sandalwood infused with cardamom, papyrus, and subtle iris accords.",
+    "badge": "NEW ARRIVAL",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Cardamom, Violet Leaf",
+      "Heart Notes": "Iris, Papyrus",
+      "Base Notes": "Sandalwood, Cedar, Amber",
+      "Concentration": "Eau de Parfum (22%)"
+    },
+    "features": [
+      "Sustainably harvested wood",
+      "Signature magnetic black cap"
+    ]
+  },
+  {
+    "id": "perfume-03",
+    "name": "Ambre Éternel",
+    "category": "perfumes",
+    "price": 340,
+    "originalPrice": 395,
+    "rating": 5,
+    "reviewsCount": 76,
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Rich resinous golden amber entwined with bourbon vanilla, frankincense, and warm spice.",
+    "badge": "LIMITED EDITION",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "100ml Eau de Parfum"
+    ],
+    "specs": {
+      "Top Notes": "Coriander, Cinnamon Bark",
+      "Heart Notes": "Labdanum, Tonka",
+      "Base Notes": "Golden Amber, Benzoin, Vanilla",
+      "Concentration": "Extrait de Parfum (28%)"
+    },
+    "features": [
+      "Crystal flacon",
+      "Numbered collector edition"
+    ]
+  },
+  {
+    "id": "perfume-04",
+    "name": "Vetiver Sauvage",
+    "category": "perfumes",
+    "price": 260,
+    "rating": 4.7,
+    "reviewsCount": 84,
+    "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Crisp Haitian vetiver accented by sparkling grapefruit, pink peppercorns, and flint minerality.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Grapefruit, Bitter Orange",
+      "Heart Notes": "Pink Pepper, Flint",
+      "Base Notes": "Haitian Vetiver, Cedarwood",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "All-day longevity",
+      "Clean mineral projection"
+    ]
+  },
+  {
+    "id": "perfume-05",
+    "name": "Rose Cuir Royal",
+    "category": "perfumes",
+    "price": 310,
+    "rating": 4.9,
+    "reviewsCount": 112,
+    "image": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "An intoxicating juxtaposition of opulent Turkish rose absolute against supple Tuscan saddle leather.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Italian Bergamot, Cumin",
+      "Heart Notes": "Turkish Rose, Geranium",
+      "Base Notes": "Tuscan Leather, Patchouli",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "Extracted at dawn",
+      "Velvet gift box presentation"
+    ]
+  },
+  {
+    "id": "perfume-06",
+    "name": "Fumée Blanche",
+    "category": "perfumes",
+    "price": 275,
+    "rating": 4.8,
+    "reviewsCount": 64,
+    "image": "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1595425970377-c9703cf48b6d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Silken white smoke, juniper berries, pine needles, and crisp alpine air over cashmeran.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Alpine Juniper, Aldehydes",
+      "Heart Notes": "Pine Resin, White Incense",
+      "Base Notes": "Cashmeran, White Musks",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "Cold-weather favorite",
+      "Long drydown profile"
+    ]
+  },
+  {
+    "id": "perfume-07",
+    "name": "Soleil de Monaco",
+    "category": "perfumes",
+    "price": 285,
+    "rating": 4.7,
+    "reviewsCount": 53,
+    "image": "https://images.unsplash.com/photo-1583445013765-46c20c4a6772?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1583445013765-46c20c4a6772?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Golden Mediterranean citrus, neroli blossom, sun-warmed amber, and coconut palm accord.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Mandarin, Bitter Petitgrain",
+      "Heart Notes": "Neroli, Tuberose",
+      "Base Notes": "Warm Sand, Coconut Amber",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "Riviera inspired",
+      "Ultra luminous silage"
+    ]
+  },
+  {
+    "id": "perfume-08",
+    "name": "Black Tobacco Reserve",
+    "category": "perfumes",
+    "price": 350,
+    "originalPrice": 420,
+    "rating": 4.9,
+    "reviewsCount": 165,
+    "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Cuban tobacco leaves cured in single-barrel rum, sweetened with raw honeycomb and cocoa.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml",
+      "250ml Decanter"
+    ],
+    "specs": {
+      "Top Notes": "Dark Rum, Spiced Ginger",
+      "Heart Notes": "Cured Tobacco, Dried Fruits",
+      "Base Notes": "Honeycomb, Tonka, Vanilla Bean",
+      "Concentration": "Extrait de Parfum"
+    },
+    "features": [
+      "Aged in charred oak barrels",
+      "Signature evening scent"
+    ]
+  },
+  {
+    "id": "perfume-09",
+    "name": "Iris d’Argent",
+    "category": "perfumes",
+    "price": 330,
+    "rating": 4.8,
+    "reviewsCount": 42,
+    "image": "https://images.unsplash.com/photo-1616949755610-8c9bbc08f138?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1616949755610-8c9bbc08f138?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Florentine orris root of peerless purity, combined with silver frankincense and white suede.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Italian Lemon, Angelica Seed",
+      "Heart Notes": "Florentine Orris, Silver Peony",
+      "Base Notes": "White Suede, Cedar, Musks",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "3-year aged rhizomes",
+      "Silky powder sillage"
+    ]
+  },
+  {
+    "id": "perfume-10",
+    "name": "Cèdre Sublime",
+    "category": "perfumes",
+    "price": 270,
+    "rating": 4.6,
+    "reviewsCount": 67,
+    "image": "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Virginian and Atlas cedarwood spiced with nutmeg, coriander, and resinous olibanum.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Nutmeg, Bergamot",
+      "Heart Notes": "Atlas Cedar, Clove",
+      "Base Notes": "Virginian Cedar, Benzoin",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "Architectural clarity",
+      "Woody minimalist character"
+    ]
+  },
+  {
+    "id": "perfume-11",
+    "name": "Nocturne Patchouli",
+    "category": "perfumes",
+    "price": 295,
+    "rating": 4.8,
+    "reviewsCount": 88,
+    "image": "https://images.unsplash.com/photo-1619994403073-2cec844b8e63?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1619994403073-2cec844b8e63?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Dark, earthy Indonesian patchouli illuminated by dark chocolate, davana, and dried plum.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Davana, Dark Plum",
+      "Heart Notes": "Indonesian Patchouli, Cocoa",
+      "Base Notes": "Amber, Benzoin, Birch",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "Vintage distillation",
+      "Intense projection"
+    ]
+  },
+  {
+    "id": "perfume-12",
+    "name": "Bergamote Dorée",
+    "category": "perfumes",
+    "price": 245,
+    "rating": 4.7,
+    "reviewsCount": 104,
+    "image": "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Sparkling Calabrian bergamot infused with orange blossom water, green tea, and luminous ambergris.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Calabrian Bergamot, Lemon",
+      "Heart Notes": "Orange Blossom, Green Tea",
+      "Base Notes": "Ambergris, Clean Musk",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "Highest grade Calabrian press",
+      "Effervescent opening"
+    ]
+  },
+  {
+    "id": "perfume-13",
+    "name": "Imperial Cuir",
+    "category": "perfumes",
+    "price": 360,
+    "originalPrice": 410,
+    "rating": 4.9,
+    "reviewsCount": 139,
+    "image": "https://images.unsplash.com/photo-1587017539504-67cfbddac569?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1587017539504-67cfbddac569?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Black glove leather, birch tar, cardamom seeds, and saffron thread essence.",
+    "badge": "LIMITED EDITION",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Saffron, Thyme",
+      "Heart Notes": "Black Leather, Jasmine",
+      "Base Notes": "Birch Tar, Amberwood",
+      "Concentration": "Extrait de Parfum"
+    },
+    "features": [
+      "Signature Luxora formulation",
+      "Black lacquer casing"
+    ]
+  },
+  {
+    "id": "perfume-14",
+    "name": "Musc Infini",
+    "category": "perfumes",
+    "price": 255,
+    "rating": 4.8,
+    "reviewsCount": 77,
+    "image": "https://images.unsplash.com/photo-1595535373192-fc8935bacd89?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1595535373192-fc8935bacd89?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "A second-skin fragrance combining clean white musks with ambrette seed, pear nectar, and cashmere.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Pear Blossom, Ambrette Seed",
+      "Heart Notes": "White Musks, Lily",
+      "Base Notes": "Cashmeran, Iso E Super",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "Intimate skin scent",
+      "Non-cloying whisper sillage"
+    ]
+  },
+  {
+    "id": "perfume-15",
+    "name": "Vanille Bourbon Supreme",
+    "category": "perfumes",
+    "price": 315,
+    "rating": 4.9,
+    "reviewsCount": 121,
+    "image": "https://images.unsplash.com/photo-1582211594533-268f4f1edcb9?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1582211594533-268f4f1edcb9?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Madagascar vanilla caviar, charred oak, smoked guaiacwood, and golden caramelized sugar.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Bourbon Nectar, Bitter Almond",
+      "Heart Notes": "Vanilla Caviar, Orchid",
+      "Base Notes": "Guaiacwood, Benzoin, Caramel",
+      "Concentration": "Extrait de Parfum"
+    },
+    "features": [
+      "Pure Bourbon vanilla pods",
+      "Sensual warm gourmand"
+    ]
+  },
+  {
+    "id": "perfume-16",
+    "name": "Aqua Di Luxora",
+    "category": "perfumes",
+    "price": 265,
+    "rating": 4.7,
+    "reviewsCount": 93,
+    "image": "/images/perfume_aqua_luxora.jpg",
+    "gallery": [
+      "/images/perfume_aqua_luxora.jpg"
+    ],
+    "description": "Marine sea salt air, aquatic mineral notes, coastal rosemary, and sun-bleached driftwood.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Sea Spray, Rosemary",
+      "Heart Notes": "Maritime Minerals, Clary Sage",
+      "Base Notes": "Driftwood, Ambergris",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "Captures the cliffside coastline",
+      "All-season fresh profile"
+    ]
+  },
+  {
+    "id": "perfume-17",
+    "name": "Cardamome Privé",
+    "category": "perfumes",
+    "price": 290,
+    "rating": 4.8,
+    "reviewsCount": 61,
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Green Guatemalan cardamom elevated with black tea leaves, fig milk, and blonde cedar.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Green Cardamom, Fig Leaf",
+      "Heart Notes": "Black Tea, Violet Leaf",
+      "Base Notes": "Blonde Woods, Tonka",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "Bespoke tea accord",
+      "Refined unisex character"
+    ]
+  },
+  {
+    "id": "perfume-18",
+    "name": "Encens Mystique",
+    "category": "perfumes",
+    "price": 335,
+    "rating": 4.9,
+    "reviewsCount": 82,
+    "image": "https://images.unsplash.com/photo-1528720208104-3d9bd03cc9d4?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1528720208104-3d9bd03cc9d4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Omani frankincense tears smoked over red embers with myrrh, labdanum, and dark benzoin.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Pink Peppercorn, Elemi",
+      "Heart Notes": "Omani Frankincense, Myrrh",
+      "Base Notes": "Labdanum, Leather, Smoke",
+      "Concentration": "Extrait de Parfum"
+    },
+    "features": [
+      "Ceremonial royal grade resin",
+      "Hypnotic longevity"
+    ]
+  },
+  {
+    "id": "perfume-19",
+    "name": "Fleur d’Oranger Noir",
+    "category": "perfumes",
+    "price": 280,
+    "rating": 4.7,
+    "reviewsCount": 57,
+    "image": "https://images.unsplash.com/photo-1508746829417-e6f548d8d6ed?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1508746829417-e6f548d8d6ed?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Night-blooming bitter orange flowers contrasted with black pepper, civet accord, and dark honey.",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml",
+      "100ml"
+    ],
+    "specs": {
+      "Top Notes": "Bitter Orange, Pepper",
+      "Heart Notes": "Orange Blossom, Jasmine",
+      "Base Notes": "Dark Honey, Oakmoss, Civet",
+      "Concentration": "Eau de Parfum"
+    },
+    "features": [
+      "Dark floral architecture",
+      "Unique nocturnal silage"
+    ]
+  },
+  {
+    "id": "perfume-20",
+    "name": "Luxora Signature Elixir",
+    "category": "perfumes",
+    "price": 390,
+    "originalPrice": 450,
+    "rating": 5,
+    "reviewsCount": 210,
+    "image": "https://images.unsplash.com/photo-1519669011783-4eaa95fa1b7d?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1519669011783-4eaa95fa1b7d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The master creation of the Luxora House. An incomparable marriage of 40-year aged oud, ambergris, Bulgarian rose, and spiced saffron.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "Volume",
+    "options": [
+      "50ml Pure Parfum",
+      "100ml Pure Parfum"
+    ],
+    "specs": {
+      "Top Notes": "Royal Saffron, Bergamot",
+      "Heart Notes": "40-Year Cambodian Oud, Rose",
+      "Base Notes": "Ambergris, Mysore Sandalwood",
+      "Concentration": "Pure Parfum (35%)"
+    },
+    "features": [
+      "House flagship scent",
+      "Hand-numbered crystal flacon",
+      "Certificate of authenticity"
+    ]
+  },
+  {
+    "id": "watch-01",
+    "name": "Chronographe Imperial Dual-Tone",
+    "category": "watches",
+    "price": 1850,
+    "originalPrice": 2200,
+    "rating": 4.9,
+    "reviewsCount": 89,
+    "image": "/images/watch_imperial.jpg",
+    "gallery": [
+      "/images/watch_imperial.jpg"
+    ],
+    "description": "The signature Luxora flagship chronograph featured in our cliffside campaign. Hand-finished 316L stainless steel with 18k yellow gold fluted bezel and sunburst noir dial.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "Case Size",
+    "options": [
+      "41mm Case",
+      "43mm Case"
+    ],
+    "specs": {
+      "Movement": "Swiss Calibre LX-90 Automatic",
+      "Power Reserve": "72 Hours",
+      "Case": "316L Stainless Steel & 18k Gold",
+      "Crystal": "Sapphire Crystal with Anti-Reflective Coating",
+      "Water Resistance": "100m / 10 ATM"
+    },
+    "features": [
+      "Triple sub-dial chronograph",
+      "Luminescent gold hands",
+      "Jubilee style solid link bracelet"
+    ]
+  },
+  {
+    "id": "watch-02",
+    "name": "Nocturne Skeleton Tourbillon",
+    "category": "watches",
+    "price": 3400,
+    "originalPrice": 3900,
+    "rating": 5,
+    "reviewsCount": 42,
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Open-worked architectural skeleton movement revealing the beating escapement mechanism encased in matte black DLC titanium.",
+    "badge": "LIMITED EDITION",
+    "inStock": true,
+    "optionName": "Strap",
+    "options": [
+      "FKM Vulcanized Rubber",
+      "Alligator Leather"
+    ],
+    "specs": {
+      "Movement": "Manual-Wind Flying Tourbillon",
+      "Power Reserve": "96 Hours",
+      "Case": "Grade 5 Titanium with DLC",
+      "Crystal": "Double Curved Box Sapphire",
+      "Water Resistance": "50m"
+    },
+    "features": [
+      "Fully skeletonized bridges",
+      "Exhibition caseback",
+      "Numbered limited run of 100"
+    ]
+  },
+  {
+    "id": "watch-03",
+    "name": "Monaco Heritage Automatic",
+    "category": "watches",
+    "price": 1450,
+    "rating": 4.8,
+    "reviewsCount": 110,
+    "image": "https://images.unsplash.com/photo-1547996160-71dfabbce5ed?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1547996160-71dfabbce5ed?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Understated elegance inspired by 1960s Riviera yachting timepieces. Deep navy sunburst dial with applied polished baton indices.",
+    "inStock": true,
+    "optionName": "Case Size",
+    "options": [
+      "39mm Classic",
+      "42mm Modern"
+    ],
+    "specs": {
+      "Movement": "Self-Winding Automatic Calibre LX-32",
+      "Power Reserve": "48 Hours",
+      "Case": "Polished 316L Steel",
+      "Crystal": "Domed Sapphire",
+      "Water Resistance": "100m"
+    },
+    "features": [
+      "Quick-release Italian calf strap",
+      "Date aperture at 3 o’clock",
+      "Anti-magnetic casing"
+    ]
+  },
+  {
+    "id": "watch-04",
+    "name": "Aero GMT Worldtimer Rose Gold",
+    "category": "watches",
+    "price": 2600,
+    "rating": 4.9,
+    "reviewsCount": 65,
+    "image": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Designed for international jet-setters. Displays dual timezones via an independent 24-hour red GMT hand on a bi-directional ceramic bezel.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "Dial Color",
+    "options": [
+      "Midnight Black",
+      "Slate Grey"
+    ],
+    "specs": {
+      "Movement": "Automatic Calibre LX-GMT",
+      "Power Reserve": "70 Hours",
+      "Case": "18k Rose Gold Plated Steel",
+      "Bezel": "Bi-directional Scratchproof Ceramic",
+      "Water Resistance": "200m"
+    },
+    "features": [
+      "Dual timezone tracking",
+      "Cyclops date magnifier",
+      "Solid milled deployment clasp"
+    ]
+  },
+  {
+    "id": "watch-05",
+    "name": "Submersible Deep Sea 300M",
+    "category": "watches",
+    "price": 1650,
+    "rating": 4.8,
+    "reviewsCount": 134,
+    "image": "/images/watch_submersible.jpg",
+    "gallery": [
+      "/images/watch_submersible.jpg"
+    ],
+    "description": "A rugged yet refined professional diver timepiece engineered for abyssal depths with a unidirectional ceramic bezel and helium escape valve.",
+    "inStock": true,
+    "optionName": "Strap",
+    "options": [
+      "Oyster Steel Bracelet",
+      "High-Density Dive Silicone"
+    ],
+    "specs": {
+      "Movement": "High-Beat Automatic Calibre LX-88",
+      "Power Reserve": "65 Hours",
+      "Case": "Surgical Steel 316L",
+      "Crystal": "4.5mm Scratchproof Sapphire",
+      "Water Resistance": "300m / 30 ATM"
+    },
+    "features": [
+      "Super-LumiNova BGW9 blue glow",
+      "Unidirectional 120-click bezel"
+    ]
+  },
+  {
+    "id": "watch-06",
+    "name": "Vanguard Matte Ceramic Black",
+    "category": "watches",
+    "price": 2100,
+    "rating": 4.9,
+    "reviewsCount": 78,
+    "image": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Ultra-contemporary stealth chronograph constructed from high-tech zirconium oxide ceramic that is virtually impervious to scratches.",
+    "badge": "NEW ARRIVAL",
+    "inStock": true,
+    "optionName": "Case Size",
+    "options": [
+      "42mm Case"
+    ],
+    "specs": {
+      "Movement": "Integrated Column-Wheel Chronograph",
+      "Power Reserve": "60 Hours",
+      "Case": "Monobloc Black High-Tech Ceramic",
+      "Weight": "88 grams (Ultra-Light)",
+      "Water Resistance": "100m"
+    },
+    "features": [
+      "High scratch resistance",
+      "Hypoallergenic biocompatible material"
+    ]
+  },
+  {
+    "id": "watch-07",
+    "name": "Royale Ultra-Thin Minimalist",
+    "category": "watches",
+    "price": 1150,
+    "originalPrice": 1350,
+    "rating": 4.7,
+    "reviewsCount": 92,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Pure dress-watch refinement. A slender 6.2mm profile that slips effortlessly under French shirt cuffs, paired with genuine bridle leather.",
+    "inStock": true,
+    "optionName": "Case Finish",
+    "options": [
+      "Polished Silver",
+      "Warm Champagne Gold"
+    ],
+    "specs": {
+      "Movement": "Ultra-Thin Calibre LX-18",
+      "Thickness": "6.2mm",
+      "Case": "316L Stainless Steel",
+      "Crystal": "Sapphire",
+      "Water Resistance": "30m"
+    },
+    "features": [
+      "Guilloché center dial",
+      "Heat-blued feuille hands"
+    ]
+  },
+  {
+    "id": "watch-08",
+    "name": "Turbulence Titanium Pilot",
+    "category": "watches",
+    "price": 1750,
+    "rating": 4.8,
+    "reviewsCount": 56,
+    "image": "/images/watch_pilot.jpg",
+    "gallery": [
+      "/images/watch_pilot.jpg"
+    ],
+    "description": "Aviation heritage reimagined in sandblasted Grade 5 titanium with oversized onion crown and high-contrast numerals.",
+    "inStock": true,
+    "optionName": "Case Size",
+    "options": [
+      "41mm Case",
+      "44mm Flieger"
+    ],
+    "specs": {
+      "Movement": "Automatic Calibre LX-55",
+      "Power Reserve": "50 Hours",
+      "Case": "Grade 5 Sandblasted Titanium",
+      "Crystal": "Anti-reflective Sapphire",
+      "Water Resistance": "100m"
+    },
+    "features": [
+      "Oversized pilot crown for gloved use",
+      "Distressed vintage calf strap"
+    ]
+  },
+  {
+    "id": "watch-09",
+    "name": "Elysium Diamond Edition",
+    "category": "watches",
+    "price": 4500,
+    "rating": 5,
+    "reviewsCount": 31,
+    "image": "/images/watch_diamond.jpg",
+    "gallery": [
+      "/images/watch_diamond.jpg"
+    ],
+    "description": "Set with 48 baguette-cut VVS clarity diamonds around an 18k white gold bezel with mother-of-pearl dial.",
+    "badge": "LIMITED EDITION",
+    "inStock": true,
+    "optionName": "Size",
+    "options": [
+      "38mm Diamond Bezel"
+    ],
+    "specs": {
+      "Diamonds": "2.4 Carats Total Weight (VVS, F-G Color)",
+      "Movement": "Manufacture Calibre LX-99",
+      "Case": "Solid 18k White Gold",
+      "Dial": "Natural Tahitian Mother of Pearl"
+    },
+    "features": [
+      "Gemological Institute certificate",
+      "Jeweled winding rotor"
+    ]
+  },
+  {
+    "id": "watch-10",
+    "name": "Nautilus Blue Regatta",
+    "category": "watches",
+    "price": 1980,
+    "rating": 4.8,
+    "reviewsCount": 73,
+    "image": "/images/watch_regatta.jpg",
+    "gallery": [
+      "/images/watch_regatta.jpg"
+    ],
+    "description": "Yacht racing countdown timer watch with horizontal relief dial in deep ocean azure and integrated brushed bracelet.",
+    "inStock": true,
+    "optionName": "Case Size",
+    "options": [
+      "40mm Case"
+    ],
+    "specs": {
+      "Movement": "Calibre LX-Regatta Flyback",
+      "Power Reserve": "65 Hours",
+      "Case": "Hand-Brushed 316L Steel",
+      "Water Resistance": "150m"
+    },
+    "features": [
+      "Flyback yacht timer",
+      "Integrated bracelet with micro-adjust"
+    ]
+  },
+  {
+    "id": "watch-11",
+    "name": "Phantom Carbon Chronograph",
+    "category": "watches",
+    "price": 2400,
+    "rating": 4.9,
+    "reviewsCount": 47,
+    "image": "https://images.unsplash.com/photo-1612817159949-195b6eb9e31a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1612817159949-195b6eb9e31a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Forged carbon fiber case forged under 300 bars of pressure, creating a marbled organic texture unique to every piece.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "Size",
+    "options": [
+      "43mm Forged Carbon"
+    ],
+    "specs": {
+      "Movement": "High-Beat Chrono 28,800 vph",
+      "Case": "Forged Carbon Matrix",
+      "Weight": "64 grams",
+      "Water Resistance": "100m"
+    },
+    "features": [
+      "Unique forged pattern on every watch",
+      "Cordura ballistic strap"
+    ]
+  },
+  {
+    "id": "watch-12",
+    "name": "Solaris Perpetual Calendar",
+    "category": "watches",
+    "price": 3800,
+    "rating": 5,
+    "reviewsCount": 39,
+    "image": "/images/watch_perpetual.jpg",
+    "gallery": [
+      "/images/watch_perpetual.jpg"
+    ],
+    "description": "A grand complication automatically calculating leap years and moonphase until the year 2100 without manual adjustment.",
+    "badge": "LIMITED EDITION",
+    "inStock": true,
+    "optionName": "Strap",
+    "options": [
+      "Hand-Stitched Crocodile Leather",
+      "Polished Mesh Steel"
+    ],
+    "specs": {
+      "Complications": "Day, Date, Month, Leap Year, Moonphase",
+      "Movement": "Manufacture Calibre LX-700",
+      "Case": "18k Yellow Gold Filled",
+      "Water Resistance": "50m"
+    },
+    "features": [
+      "Gold star moonphase disc",
+      "Exhibition sapphire display back"
+    ]
+  },
+  {
+    "id": "watch-13",
+    "name": "Le Mans Racing Chrono",
+    "category": "watches",
+    "price": 1550,
+    "originalPrice": 1800,
+    "rating": 4.8,
+    "reviewsCount": 118,
+    "image": "/images/watch_racing.jpg",
+    "gallery": [
+      "/images/watch_racing.jpg"
+    ],
+    "description": "Tribute to 1970s endurance motorsport. Tachymeter scale bezel, panda dial with contrasting registers, and perforated rally strap.",
+    "inStock": true,
+    "optionName": "Dial Color",
+    "options": [
+      "Reverse Panda (Black/White)",
+      "Panda (White/Black)"
+    ],
+    "specs": {
+      "Movement": "Calibre LX-Racer Mechanical Chrono",
+      "Power Reserve": "54 Hours",
+      "Case": "316L Steel",
+      "Water Resistance": "100m"
+    },
+    "features": [
+      "Punched rally leather strap",
+      "Tachymeter speed calculator"
+    ]
+  },
+  {
+    "id": "watch-14",
+    "name": "Atlas Dual Time Pilot",
+    "category": "watches",
+    "price": 1390,
+    "rating": 4.7,
+    "reviewsCount": 68,
+    "image": "https://images.unsplash.com/photo-1587925358603-c2eea5305bbc?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1587925358603-c2eea5305bbc?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Clean Scandinavian aeronautical watch with inner rotating 12-hour ring controlled by a secondary screw-down crown.",
+    "inStock": true,
+    "optionName": "Case Size",
+    "options": [
+      "40mm Case"
+    ],
+    "specs": {
+      "Movement": "Automatic Calibre LX-33",
+      "Power Reserve": "42 Hours",
+      "Case": "Bead-Blasted 316L Steel",
+      "Water Resistance": "100m"
+    },
+    "features": [
+      "Dual crowns at 2 & 4 o’clock",
+      "Matte dial with no-glare crystal"
+    ]
+  },
+  {
+    "id": "watch-15",
+    "name": "Milano Open Heart Gold",
+    "category": "watches",
+    "price": 1720,
+    "rating": 4.8,
+    "reviewsCount": 85,
+    "image": "/images/watch_openheart.jpg",
+    "gallery": [
+      "/images/watch_openheart.jpg"
+    ],
+    "description": "Features a circular opening at 9 o’clock revealing the balance wheel oscillation in motion, framed by a guilloché dial.",
+    "inStock": true,
+    "optionName": "Strap",
+    "options": [
+      "Cognac Brown Leather",
+      "Black Saffiano Leather"
+    ],
+    "specs": {
+      "Movement": "Open-Heart Automatic LX-44",
+      "Power Reserve": "50 Hours",
+      "Case": "18k Yellow Gold PVD",
+      "Water Resistance": "50m"
+    },
+    "features": [
+      "Exposed balance wheel pulsation",
+      "Roman numeral indices"
+    ]
+  },
+  {
+    "id": "watch-16",
+    "name": "Aquatimer Bronze Vintage",
+    "category": "watches",
+    "price": 1890,
+    "rating": 4.9,
+    "reviewsCount": 52,
+    "image": "/images/watch_bronze.jpg",
+    "gallery": [
+      "/images/watch_bronze.jpg"
+    ],
+    "description": "CuSn8 marine-grade bronze case that develops an individualized patina over time as it weathers sea air and everyday wear.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "Size",
+    "options": [
+      "42mm Bronze Case"
+    ],
+    "specs": {
+      "Movement": "Calibre LX-Pro Diver",
+      "Power Reserve": "70 Hours",
+      "Case": "Marine Bronze CuSn8",
+      "Water Resistance": "300m"
+    },
+    "features": [
+      "Natural aging patina characteristic",
+      "Titanium caseback"
+    ]
+  },
+  {
+    "id": "watch-17",
+    "name": "Crestline Titanium Chronometer",
+    "category": "watches",
+    "price": 2250,
+    "rating": 4.8,
+    "reviewsCount": 44,
+    "image": "https://images.unsplash.com/photo-1619134778706-70156333554e?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1619134778706-70156333554e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "COSC-certified Swiss chronometer movement (+4/-6 seconds accuracy) enclosed in ultra-tough Grade 5 titanium.",
+    "inStock": true,
+    "optionName": "Bracelet",
+    "options": [
+      "Full Titanium Bracelet",
+      "FKM Rubber Strap"
+    ],
+    "specs": {
+      "Movement": "Official COSC Chronometer Certified",
+      "Power Reserve": "80 Hours",
+      "Case": "Grade 5 Titanium",
+      "Water Resistance": "150m"
+    },
+    "features": [
+      "COSC chronometer bulletin certificate",
+      "Featherweight durability"
+    ]
+  },
+  {
+    "id": "watch-18",
+    "name": "Apex Midnight Monolith",
+    "category": "watches",
+    "price": 1690,
+    "rating": 4.7,
+    "reviewsCount": 63,
+    "image": "/images/watch_monolith.jpg",
+    "gallery": [
+      "/images/watch_monolith.jpg"
+    ],
+    "description": "Monochromatic pitch-black dial with polished anthracite hands and diamond-like carbon coating.",
+    "inStock": true,
+    "optionName": "Case Size",
+    "options": [
+      "41mm Case"
+    ],
+    "specs": {
+      "Movement": "High-Frequency Calibre LX-60",
+      "Case": "DLC Coated Black Steel",
+      "Water Resistance": "100m"
+    },
+    "features": [
+      "Deep black light absorption coating",
+      "Integrated deployment strap"
+    ]
+  },
+  {
+    "id": "watch-19",
+    "name": "Riviera Sunset Rose Gold",
+    "category": "watches",
+    "price": 2150,
+    "rating": 4.9,
+    "reviewsCount": 71,
+    "image": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1539874754764-5a96559165b0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Fluted 18k rose gold bezel catching ambient light at sunset, fitted on a dark chocolate alligator embossed band.",
+    "inStock": true,
+    "optionName": "Dial",
+    "options": [
+      "Champagne Sunburst",
+      "Piano Black"
+    ],
+    "specs": {
+      "Movement": "Calibre LX-50 Automatic",
+      "Power Reserve": "60 Hours",
+      "Case": "18k Rose Gold Plating on 316L",
+      "Water Resistance": "50m"
+    },
+    "features": [
+      "Hand-applied fluted bezel",
+      "Luxury collector presentation box"
+    ]
+  },
+  {
+    "id": "watch-20",
+    "name": "Luxora Master Perpetual Chrono",
+    "category": "watches",
+    "price": 4900,
+    "originalPrice": 5500,
+    "rating": 5,
+    "reviewsCount": 154,
+    "image": "https://images.unsplash.com/photo-1594576722512-582bcd46fba3?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1594576722512-582bcd46fba3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The pinnacle of Luxora horology. An integrated split-seconds split flyback chronograph combined with complete astronomical moonphase and perpetual calendar.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "Case Metal",
+    "options": [
+      "Two-Tone Steel & 18k Gold",
+      "Solid 18k Rose Gold Finish"
+    ],
+    "specs": {
+      "Movement": "Manufacture Calibre LX-Grand Complication",
+      "Power Reserve": "100 Hours",
+      "Crystal": "Anti-Reflective Double Sapphire",
+      "Water Resistance": "100m"
+    },
+    "features": [
+      "Numbered grand complication series",
+      "5-year international luxury warranty",
+      "Free lifetime maintenance concierge"
+    ]
+  },
+  {
+    "id": "sunglass-01",
+    "name": "Luxora Monaco Wayfarer Noir",
+    "category": "sunglasses",
+    "price": 380,
+    "originalPrice": 450,
+    "rating": 4.9,
+    "reviewsCount": 168,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The iconic black square frames from the Luxora coastal campaign. Sculpted from heavyweight Italian Mazzucchelli acetate with bevelled edges and 24k gold temple logo inlays.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "Lens Tint",
+    "options": [
+      "Deep Obsidian Polarized",
+      "Gradient Charcoal"
+    ],
+    "specs": {
+      "Frame Material": "Italian Mazzucchelli M49 Bio-Acetate",
+      "Lens": "Barberini Mineral Glass Polarized",
+      "UV Rating": "100% UVA/UVB Protection (UV400)",
+      "Hinges": "Custom 7-Barrel German Engineered"
+    },
+    "features": [
+      "Anti-reflective inner coating",
+      "Scratchproof mineral lenses",
+      "Hard leather travel case included"
+    ]
+  },
+  {
+    "id": "sunglass-02",
+    "name": "Aviateur Titane Gold",
+    "category": "sunglasses",
+    "price": 440,
+    "rating": 5,
+    "reviewsCount": 82,
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Featherweight Japanese beta-titanium double-bridge aviator dipped in 18k champagne gold with teardrop bottle green polarized lenses.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "Frame Finish",
+    "options": [
+      "18k Champagne Gold",
+      "Gunmetal Titanium"
+    ],
+    "specs": {
+      "Frame": "Beta-Titanium 0.6mm Wire",
+      "Weight": "16 grams (Featherlight)",
+      "Lenses": "Polarized Emerald Green CR-39",
+      "UV Rating": "UV400 Category 3"
+    },
+    "features": [
+      "Hypoallergenic titanium nose pads",
+      "Ultra-flexible temples"
+    ]
+  },
+  {
+    "id": "sunglass-03",
+    "name": "Riviera Tortoise Square",
+    "category": "sunglasses",
+    "price": 360,
+    "originalPrice": 420,
+    "rating": 4.8,
+    "reviewsCount": 94,
+    "image": "https://images.unsplash.com/photo-1508296695146-257a814070b4?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1508296695146-257a814070b4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Rich dark Havana tortoiseshell patterned acetate with warm amber gradient lenses for late afternoon golden hours.",
+    "inStock": true,
+    "optionName": "Size",
+    "options": [
+      "Medium 50mm",
+      "Large 54mm"
+    ],
+    "specs": {
+      "Frame": "Hand-Polished Havana Acetate",
+      "Lenses": "Gradient Amber CR-39",
+      "UV Rating": "UV400"
+    },
+    "features": [
+      "Distinctive warm tortoise tones",
+      "Ergonomic comfort bridge"
+    ]
+  },
+  {
+    "id": "sunglass-04",
+    "name": "Vanguard Hexagonal Matte Black",
+    "category": "sunglasses",
+    "price": 390,
+    "rating": 4.8,
+    "reviewsCount": 63,
+    "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Sharp geometric hexagonal silhouette crafted in matte black stainless steel with pitch-black mirror lenses.",
+    "badge": "NEW ARRIVAL",
+    "inStock": true,
+    "optionName": "Lens Type",
+    "options": [
+      "Solid Matte Black",
+      "Silver Flash Mirror"
+    ],
+    "specs": {
+      "Frame": "Surgical Grade Stainless Steel",
+      "Lenses": "Nylon Impact-Resistant",
+      "UV Rating": "100% UV Protection"
+    },
+    "features": [
+      "Geometric statement contour",
+      "Silicone comfort temple tips"
+    ]
+  },
+  {
+    "id": "sunglass-05",
+    "name": "Sorrento Round Acetate",
+    "category": "sunglasses",
+    "price": 340,
+    "rating": 4.7,
+    "reviewsCount": 77,
+    "image": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Classic panto round shape reminiscent of 1950s European intellectuals and artists, with keyhole bridge.",
+    "inStock": true,
+    "optionName": "Color",
+    "options": [
+      "Smokey Quartz",
+      "Gloss Black"
+    ],
+    "specs": {
+      "Frame": "Cellulose Acetate with Core Wire",
+      "Lenses": "G-15 Polarized Green",
+      "UV Rating": "UV400"
+    },
+    "features": [
+      "Retro keyhole nose bridge",
+      "Double rivet temple pins"
+    ]
+  },
+  {
+    "id": "sunglass-06",
+    "name": "Falcon Rimless Titanium",
+    "category": "sunglasses",
+    "price": 490,
+    "rating": 5,
+    "reviewsCount": 45,
+    "image": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Frameless precision optics with bevelled edge grey lenses fastened with micro-hex screws to titanium arms.",
+    "badge": "LIMITED EDITION",
+    "inStock": true,
+    "optionName": "Hardware",
+    "options": [
+      "Polished Platinum",
+      "18k Gold Plated"
+    ],
+    "specs": {
+      "Construction": "Three-Piece Rimless Mounting",
+      "Temples": "High-Tensile Beta Titanium",
+      "Weight": "14 grams"
+    },
+    "features": [
+      "Diamond-bevelled perimeter lenses",
+      "Zero obstruction field of vision"
+    ]
+  },
+  {
+    "id": "sunglass-07",
+    "name": "Capri Cat-Eye Architectural",
+    "category": "sunglasses",
+    "price": 370,
+    "rating": 4.8,
+    "reviewsCount": 88,
+    "image": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Sculptural sharp cat-eye with angular browline and dramatic bevels for bold luxury red-carpet impact.",
+    "inStock": true,
+    "optionName": "Acetate",
+    "options": [
+      "Piano Black",
+      "Ivory Marble"
+    ],
+    "specs": {
+      "Frame": "8mm Block Italian Acetate",
+      "Lenses": "Charcoal Tint UV400",
+      "Fit": "Standard High-Bridge"
+    },
+    "features": [
+      "Thick 8mm sculpted edges",
+      "Subtle gold foil logo inner stamp"
+    ]
+  },
+  {
+    "id": "sunglass-08",
+    "name": "Navigator Black Platinum",
+    "category": "sunglasses",
+    "price": 410,
+    "rating": 4.9,
+    "reviewsCount": 105,
+    "image": "https://images.unsplash.com/photo-1591076482161-42ce6da69f67?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1591076482161-42ce6da69f67?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Squared-off modern aviator with cross-bridge and ribbed knurled titanium temple details.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "Lens Tint",
+    "options": [
+      "Deep Polarized Grey",
+      "Midnight Blue Mirror"
+    ],
+    "specs": {
+      "Frame": "Dual Metal Alloy & Titanium",
+      "Lenses": "Polarized Glass with Oleophobic Coating"
+    },
+    "features": [
+      "Water and fingerprint repellent coating",
+      "Solid hinge snap mechanism"
+    ]
+  },
+  {
+    "id": "sunglass-09",
+    "name": "Atelier Wire Round Gold",
+    "category": "sunglasses",
+    "price": 350,
+    "rating": 4.7,
+    "reviewsCount": 52,
+    "image": "https://images.unsplash.com/photo-1504703395950-b89145a5425b?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1504703395950-b89145a5425b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Filigree engraved rim wire with subtle coin-edge detail around warm sepia tinted glass lenses.",
+    "inStock": true,
+    "optionName": "Frame Tone",
+    "options": [
+      "Antique Gold",
+      "Sterling Silver"
+    ],
+    "specs": {
+      "Wire": "Laser-Etched Monel Metal",
+      "Lenses": "Vintage Sepia Tint Category 2"
+    },
+    "features": [
+      "Intricate coin-edge engraving",
+      "Authentic acetate temple socks"
+    ]
+  },
+  {
+    "id": "sunglass-10",
+    "name": "Shadow Oversized Shield",
+    "category": "sunglasses",
+    "price": 430,
+    "rating": 4.9,
+    "reviewsCount": 66,
+    "image": "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516762689617-e1cffcef479d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "One-piece monolithic cylindrical shield lens providing panoramic sun protection and futuristic runway styling.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "Finish",
+    "options": [
+      "Smokey Black Mono",
+      "Bronze Chrome"
+    ],
+    "specs": {
+      "Lens": "Single Piece Toric Polycarbonate",
+      "UV": "UV400 + Blue Light Filter"
+    },
+    "features": [
+      "Continuous uninterrupted lens field",
+      "Rubberized sport-grip temple pads"
+    ]
+  },
+  {
+    "id": "sunglass-11",
+    "name": "Venetian Tortoise Clubmaster",
+    "category": "sunglasses",
+    "price": 365,
+    "rating": 4.8,
+    "reviewsCount": 91,
+    "image": "https://images.unsplash.com/photo-1563903530908-afdd155d057a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1563903530908-afdd155d057a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Semi-rimless browline sunglass with rich amber acetate upper and hand-burnished gold metal lower rims.",
+    "inStock": true,
+    "optionName": "Size",
+    "options": [
+      "49mm Regular",
+      "51mm Wide"
+    ],
+    "specs": {
+      "Frame": "Acetate Browline with Gold Wire Rims",
+      "Lenses": "Neutral Green G-15 Polarized"
+    },
+    "features": [
+      "Timeless mid-century styling",
+      "Adjustable goose-neck nose pads"
+    ]
+  },
+  {
+    "id": "sunglass-12",
+    "name": "Portofino Crystal Clear Square",
+    "category": "sunglasses",
+    "price": 345,
+    "rating": 4.7,
+    "reviewsCount": 74,
+    "image": "/images/sunglass_portofino.jpg",
+    "gallery": [
+      "/images/sunglass_portofino.jpg"
+    ],
+    "description": "Transparent champagne crystal acetate with exposed gold wire cores visible through the arms.",
+    "inStock": true,
+    "optionName": "Lens Color",
+    "options": [
+      "Cobalt Blue Tint",
+      "Warm Slate"
+    ],
+    "specs": {
+      "Acetate": "Optical Grade Clear Champagne Resin",
+      "Core Wire": "Custom Guilloché 14k Gold Inlay"
+    },
+    "features": [
+      "Visible internal core craftsmanship",
+      "High optical clarity"
+    ]
+  },
+  {
+    "id": "sunglass-13",
+    "name": "Saint-Tropez Square Bold",
+    "category": "sunglasses",
+    "price": 395,
+    "originalPrice": 460,
+    "rating": 4.9,
+    "reviewsCount": 114,
+    "image": "/images/sunglass_tropez.jpg",
+    "gallery": [
+      "/images/sunglass_tropez.jpg"
+    ],
+    "description": "Thick-rimmed rectangular frame inspired by French cinema icons, finished with high-gloss mirror black lacquer.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "Tint",
+    "options": [
+      "Deep Black Polarized",
+      "Fade Sepia"
+    ],
+    "specs": {
+      "Frame": "Heavy Gauge 9mm Italian Acetate",
+      "Lenses": "Polarized Glass"
+    },
+    "features": [
+      "High-contrast silhouette",
+      "Signature Luxora crest pins"
+    ]
+  },
+  {
+    "id": "sunglass-14",
+    "name": "AeroSpeed Titanium Carbon",
+    "category": "sunglasses",
+    "price": 460,
+    "rating": 4.8,
+    "reviewsCount": 59,
+    "image": "/images/sunglass_aerospeed.jpg",
+    "gallery": [
+      "/images/sunglass_aerospeed.jpg"
+    ],
+    "description": "Engineered for open-top driving with carbon fiber temples and titanium rims that withstand high g-force and wind.",
+    "inStock": true,
+    "optionName": "Lenses",
+    "options": [
+      "Polarized Driving Amber",
+      "High-Contrast Smoke"
+    ],
+    "specs": {
+      "Temples": "Aerospace Grade Real Carbon Fiber",
+      "Bridge": "Forged Titanium"
+    },
+    "features": [
+      "Enhanced driving contrast",
+      "Non-slip hydrophilic rubber tips"
+    ]
+  },
+  {
+    "id": "sunglass-15",
+    "name": "Palermo Oval Minimalism",
+    "category": "sunglasses",
+    "price": 330,
+    "rating": 4.7,
+    "reviewsCount": 83,
+    "image": "/images/sunglass_palermo.jpg",
+    "gallery": [
+      "/images/sunglass_palermo.jpg"
+    ],
+    "description": "Slim 90s inspired micro-oval frames in polished tortoiseshell with minimal profile for clean street-luxe style.",
+    "inStock": true,
+    "optionName": "Color",
+    "options": [
+      "Dark Tortoiseshell",
+      "Glossy Onyx"
+    ],
+    "specs": {
+      "Frame": "Ultrathin 3.5mm Acetate",
+      "Lenses": "Dark Grey UV400"
+    },
+    "features": [
+      "90s vintage revival geometry",
+      "Featherlight comfortable fit"
+    ]
+  },
+  {
+    "id": "sunglass-16",
+    "name": "Eclipse Matte Gunmetal Aviator",
+    "category": "sunglasses",
+    "price": 415,
+    "rating": 4.9,
+    "reviewsCount": 71,
+    "image": "/images/sunglass_eclipse.jpg",
+    "gallery": [
+      "/images/sunglass_eclipse.jpg"
+    ],
+    "description": "Stealth edition aviator with sandblasted gunmetal finish and anti-reflective flash mirror polarized lenses.",
+    "badge": "NEW ARRIVAL",
+    "inStock": true,
+    "optionName": "Lens Type",
+    "options": [
+      "Gunmetal Mirror Polarized",
+      "Smokey Charcoal"
+    ],
+    "specs": {
+      "Frame": "Grade 2 Titanium Alloy",
+      "Lenses": "Polarized TAC 1.1mm"
+    },
+    "features": [
+      "Ultra low light reflection",
+      "Corrosion-proof marine coating"
+    ]
+  },
+  {
+    "id": "sunglass-17",
+    "name": "Geneva Hexagonal Gold",
+    "category": "sunglasses",
+    "price": 375,
+    "rating": 4.8,
+    "reviewsCount": 65,
+    "image": "/images/sunglass_geneva.jpg",
+    "gallery": [
+      "/images/sunglass_geneva.jpg"
+    ],
+    "description": "Delicate yet robust hexagonal wire frame coated in 14k pale gold with gradient forest green lenses.",
+    "inStock": true,
+    "optionName": "Lenses",
+    "options": [
+      "Forest Green Gradient",
+      "Bronze Gradient"
+    ],
+    "specs": {
+      "Frame": "14k Pale Gold PVD on Stainless Steel",
+      "Lenses": "Gradient CR-39 UV400"
+    },
+    "features": [
+      "Refined geometric profile",
+      "Silicone air-pocket nose pads"
+    ]
+  },
+  {
+    "id": "sunglass-18",
+    "name": "Corsica Flat-Top Square",
+    "category": "sunglasses",
+    "price": 385,
+    "rating": 4.8,
+    "reviewsCount": 79,
+    "image": "/images/sunglass_corsica.jpg",
+    "gallery": [
+      "/images/sunglass_corsica.jpg"
+    ],
+    "description": "Architectural straight flat-top browline with monolithic temples and dark grey polarized lenses.",
+    "inStock": true,
+    "optionName": "Finish",
+    "options": [
+      "Matte Black",
+      "High Gloss Obsidian"
+    ],
+    "specs": {
+      "Frame": "Handmade Cellulose Acetate",
+      "Lenses": "Category 3 Dark Polarized"
+    },
+    "features": [
+      "Straight browline statement",
+      "Chiseled interior contours"
+    ]
+  },
+  {
+    "id": "sunglass-19",
+    "name": "Belgravia Horn Rimmed",
+    "category": "sunglasses",
+    "price": 520,
+    "rating": 5,
+    "reviewsCount": 38,
+    "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Constructed from sustainably sourced water buffalo horn featuring natural organic marbling, hand-carved in Germany.",
+    "badge": "LIMITED EDITION",
+    "inStock": true,
+    "optionName": "Horn Grain",
+    "options": [
+      "Dark Striped Horn",
+      "Blonde Honey Horn"
+    ],
+    "specs": {
+      "Material": "100% Genuine Natural Buffalo Horn",
+      "Hinges": "18k Gold Plated Spring Hinges"
+    },
+    "features": [
+      "Every single pair has an unrepeatable grain",
+      "Includes horn conditioning balm"
+    ]
+  },
+  {
+    "id": "sunglass-20",
+    "name": "Luxora Signature 24K Aviator",
+    "category": "sunglasses",
+    "price": 580,
+    "originalPrice": 650,
+    "rating": 5,
+    "reviewsCount": 142,
+    "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The pinnacle eyewear of the Luxora collection. Solid Japanese titanium plated in 24k yellow gold with real 24k gold mirrored mineral glass polarized lenses.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "Size",
+    "options": [
+      "58mm Classic Pilot",
+      "62mm Grand Pilot"
+    ],
+    "specs": {
+      "Plating": "24-Karat Yellow Gold (5 microns)",
+      "Lenses": "Barberini Mineral Glass with Real 24k Gold Flash",
+      "Weight": "21g"
+    },
+    "features": [
+      "Pure 24k gold lens coating",
+      "Saffiano leather hard case",
+      "Numbered collector certificate"
+    ]
+  },
+  {
+    "id": "sneaker-01",
+    "name": "Luxora Monolith Runner Noir",
+    "category": "sneakers",
+    "price": 490,
+    "originalPrice": 560,
+    "rating": 4.9,
+    "reviewsCount": 194,
+    "image": "/images/sneaker_monolith.jpg",
+    "gallery": [
+      "/images/sneaker_monolith.jpg"
+    ],
+    "description": "The hero luxury runner featured in the Luxora coastal signature campaign. Sculpted aerodynamic multi-panel upper in Italian full-grain nappa leather, technical mesh, and high-rebound sculpted EVA midsole.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)",
+      "US 12 (EU 45)"
+    ],
+    "specs": {
+      "Upper": "Italian Full-Grain Nappa & Technical Mesh",
+      "Lining": "Breathable Calfskin Leather",
+      "Outsole": "Vibram Megagrip Sculpted Rubber",
+      "Insole": "Ortholite Memory Foam with Arch Support"
+    },
+    "features": [
+      "Handcrafted in Civitanova Marche, Italy",
+      "Reflective 3M Luxora heel tab",
+      "Includes branded cotton dust bag and spare laces"
+    ]
+  },
+  {
+    "id": "sneaker-02",
+    "name": "Veneto Minimalist Low-Top White",
+    "category": "sneakers",
+    "price": 380,
+    "rating": 4.8,
+    "reviewsCount": 220,
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Unblemished pristine white tennis sneaker made from butter-soft Tuscan calfskin with Margom Italian rubber cupsole and gold foil serial stamp.",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)",
+      "US 12 (EU 45)"
+    ],
+    "specs": {
+      "Upper": "100% Tuscan Calfskin Leather",
+      "Sole": "Italian Margom Cupsole",
+      "Lining": "Full Calf Leather Lining"
+    },
+    "features": [
+      "Stitched cupsole construction",
+      "Waxed cotton flat laces",
+      "Gold-leaf debossed heel numbering"
+    ]
+  },
+  {
+    "id": "sneaker-03",
+    "name": "Nocturne Knit Slip-On Runner",
+    "category": "sneakers",
+    "price": 420,
+    "rating": 4.7,
+    "reviewsCount": 88,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Seamless sock-knit upper engineered for cloud-like foot immersion, framed by TPU stability cage and matte black air cushion.",
+    "badge": "NEW ARRIVAL",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Upper": "Seamless Poly-Knit Fiber",
+      "Midsole": "Cushioned Phylon with Air Pocket",
+      "Weight": "280g"
+    },
+    "features": [
+      "Ultra-flexible slip-on architecture",
+      "Breathable aerodynamic weave"
+    ]
+  },
+  {
+    "id": "sneaker-04",
+    "name": "Apex Chunky Suede Trainer",
+    "category": "sneakers",
+    "price": 460,
+    "originalPrice": 520,
+    "rating": 4.9,
+    "reviewsCount": 115,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Rich contrast panels of charcoal hairy suede, smooth matte black leather, and cream accents on a sculpted architectural platform.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)",
+      "US 12 (EU 45)"
+    ],
+    "specs": {
+      "Upper": "Premium Italian Hairy Suede & Leather",
+      "Sole": "45mm Dual-Density Platform EVA",
+      "Lining": "Terry Cotton & Leather"
+    },
+    "features": [
+      "45mm subtle height boost",
+      "High-durability tread pattern"
+    ]
+  },
+  {
+    "id": "sneaker-05",
+    "name": "Courchevel High-Top Leather",
+    "category": "sneakers",
+    "price": 530,
+    "rating": 4.8,
+    "reviewsCount": 72,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Padded ankle collar high-top with side metal zipper for effortless entry, crafted in supple pebbled black leather.",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Upper": "Pebbled Full-Grain Cowhide",
+      "Hardware": "YKK Excella Polished Silver Zipper",
+      "Sole": "Rubber Cupsole"
+    },
+    "features": [
+      "Ankle support cushioning",
+      "Quick side-zip closure"
+    ]
+  },
+  {
+    "id": "sneaker-06",
+    "name": "Riviera Slip-On Espadrille Sneaker",
+    "category": "sneakers",
+    "price": 320,
+    "rating": 4.7,
+    "reviewsCount": 94,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Perforated suede slip-on combining Mediterranean yachting charm with the cushioning of a modern luxury sneaker.",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Upper": "Perforated Velour Suede",
+      "Sole": "Natural Rubber with Braided Jute Edge"
+    },
+    "features": [
+      "Summer breathable perforation",
+      "Barefoot-friendly soft interior"
+    ]
+  },
+  {
+    "id": "sneaker-07",
+    "name": "Phantom Carbon Runner 01",
+    "category": "sneakers",
+    "price": 550,
+    "rating": 5,
+    "reviewsCount": 64,
+    "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Propulsion-tuned running sneaker featuring an embedded carbon fiber plate between two layers of supercritical nitrogen-infused foam.",
+    "badge": "LIMITED EDITION",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Plate": "Full-Length 100% Carbon Fiber Shank",
+      "Foam": "Supercritical PEBA Foam",
+      "Weight": "210g"
+    },
+    "features": [
+      "High energy return bounce",
+      "Monofilament see-through upper"
+    ]
+  },
+  {
+    "id": "sneaker-08",
+    "name": "Milano Court Low-Top Navy",
+    "category": "sneakers",
+    "price": 390,
+    "rating": 4.8,
+    "reviewsCount": 130,
+    "image": "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Deep navy calfskin paired with warm cognac heel tab and subtle gold foiled Luxora emblem.",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)",
+      "US 12 (EU 45)"
+    ],
+    "specs": {
+      "Leather": "Aniline-Dyed Navy Calfskin",
+      "Sole": "Gum Rubber Vintage Cupsole"
+    },
+    "features": [
+      "Rich aniline color depth",
+      "Hand-stitched side wall"
+    ]
+  },
+  {
+    "id": "sneaker-09",
+    "name": "St. Moritz Shearling Lined High-Top",
+    "category": "sneakers",
+    "price": 580,
+    "rating": 4.9,
+    "reviewsCount": 48,
+    "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Winterized alpine luxury sneaker lined completely with genuine 100% Australian merino shearling for sub-zero warmth.",
+    "badge": "LIMITED EDITION",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Lining": "100% Genuine Merino Shearling Wool",
+      "Upper": "Waterproof Hydrophobic Nubuck",
+      "Outsole": "Arctic Grip Ice-Traction Rubber"
+    },
+    "features": [
+      "Thermal insulation down to -20°C",
+      "Gusseted snow-proof tongue"
+    ]
+  },
+  {
+    "id": "sneaker-10",
+    "name": "Velocity Gradient Retro Track",
+    "category": "sneakers",
+    "price": 430,
+    "rating": 4.8,
+    "reviewsCount": 81,
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "1980s retro track silhouette updated with Japanese ripstop nylon and luxury calf suede trim.",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Upper": "Japanese Ripstop & Suede Overlay",
+      "Sole": "Lugged Waffle Traction Rubber"
+    },
+    "features": [
+      "Vintage foam exposed tongue",
+      "Ultra-lightweight sprint silhouette"
+    ]
+  },
+  {
+    "id": "sneaker-11",
+    "name": "Vanguard All-Black Triple Stealth",
+    "category": "sneakers",
+    "price": 470,
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "image": "https://images.unsplash.com/photo-1579338559194-a162d19bf842?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1579338559194-a162d19bf842?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Black-on-black matte leather, black waxed laces, black rubber midsole, and black lambskin lining.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)",
+      "US 12 (EU 45)"
+    ],
+    "specs": {
+      "Leather": "Matte Finish Box Calf",
+      "Sole": "High-Density Monochrome Rubber"
+    },
+    "features": [
+      "Total pitch-black profile",
+      "No visible external branding except subtle deboss"
+    ]
+  },
+  {
+    "id": "sneaker-12",
+    "name": "Capri Canvas Tennis Classic",
+    "category": "sneakers",
+    "price": 290,
+    "originalPrice": 340,
+    "rating": 4.6,
+    "reviewsCount": 97,
+    "image": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Heavyweight organic cotton duck canvas with vulcanized rubber foxing and metal eyelets.",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Material": "14oz Japanese Organic Duck Canvas",
+      "Sole": "Vulcanized Gum Rubber"
+    },
+    "features": [
+      "Washable durable canvas",
+      "Breathable unlined construction"
+    ]
+  },
+  {
+    "id": "sneaker-13",
+    "name": "Titanium Distressed Vintage Runner",
+    "category": "sneakers",
+    "price": 520,
+    "rating": 4.8,
+    "reviewsCount": 75,
+    "image": "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Individually hand-distressed and waxed by Italian artisans for an authentic lived-in vintage patina from day one.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Artisanship": "100% Hand-Treated in Naples",
+      "Upper": "Calf Leather & Suede with Wax Buffing"
+    },
+    "features": [
+      "Every pair has a unique artisanal weathering",
+      "Pre-softened leather for instant comfort"
+    ]
+  },
+  {
+    "id": "sneaker-14",
+    "name": "Sorento Perforated Driving Sneaker",
+    "category": "sneakers",
+    "price": 390,
+    "rating": 4.7,
+    "reviewsCount": 63,
+    "image": "https://images.unsplash.com/photo-1562183241-b937e95585b6?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1562183241-b937e95585b6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Slimline driving sneaker with rounded heel pebble grip for optimal pedal control during grand touring.",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Heel": "Extended Driving Rubber Pebble Wrap",
+      "Upper": "Perforated Glove Calf"
+    },
+    "features": [
+      "Curved driving heel roll",
+      "Ultra-sensitive pedal feedback sole"
+    ]
+  },
+  {
+    "id": "sneaker-15",
+    "name": "Olympus Knit Aerocore",
+    "category": "sneakers",
+    "price": 410,
+    "rating": 4.8,
+    "reviewsCount": 89,
+    "image": "/images/sneaker_olympus.jpg",
+    "gallery": [
+      "/images/sneaker_olympus.jpg"
+    ],
+    "description": "Gradient twilight purple and obsidian knit shoe with integrated sock liner and responsive rebound pods.",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Technology": "Aerocore Energy Cells",
+      "Weight": "240g"
+    },
+    "features": [
+      "360-degree foot hugging knit",
+      "Reflective lace accents"
+    ]
+  },
+  {
+    "id": "sneaker-16",
+    "name": "Florentine Suede Chelsea Sneaker",
+    "category": "sneakers",
+    "price": 495,
+    "rating": 4.9,
+    "reviewsCount": 104,
+    "image": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The hybrid perfection of an elegant Chelsea boot and a shock-absorbing luxury sneaker, featuring elastic side gussets.",
+    "badge": "NEW ARRIVAL",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Leather": "Florentine Silky Suede",
+      "Gusset": "Heavy-Duty Elastic Side Webs",
+      "Sole": "Lightweight Crepe Rubber"
+    },
+    "features": [
+      "Pull tabs front and back",
+      "Slip-on versatility with boot silhouette"
+    ]
+  },
+  {
+    "id": "sneaker-17",
+    "name": "Apex Runner Olive & Ochre",
+    "category": "sneakers",
+    "price": 450,
+    "rating": 4.8,
+    "reviewsCount": 68,
+    "image": "https://images.unsplash.com/photo-1597045566677-8cf032ed6634?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1597045566677-8cf032ed6634?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Rich earthy tones inspired by Tuscan hillsides, combining military olive nubuck with warm ochre accents.",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Upper": "Olive Nubuck & Technical Ballistic Nylon",
+      "Midsole": "Dual-Density Foam"
+    },
+    "features": [
+      "Outdoor ruggedness with high fashion polish",
+      "Weather-treated leather"
+    ]
+  },
+  {
+    "id": "sneaker-18",
+    "name": "Imperium Gold Emblem Court",
+    "category": "sneakers",
+    "price": 510,
+    "rating": 4.9,
+    "reviewsCount": 112,
+    "image": "https://images.unsplash.com/photo-1586525198428-225f6f12cff5?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1586525198428-225f6f12cff5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Black polished French calfskin crowned with a cast 24k gold-plated Luxora emblem on the tongue and heel.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)",
+      "US 12 (EU 45)"
+    ],
+    "specs": {
+      "Hardware": "Solid Brass with 24k Gold Dip",
+      "Leather": "Semi-Cordovan Finish Calf"
+    },
+    "features": [
+      "Jewelry-grade metallic hardware",
+      "High shine mirror polish"
+    ]
+  },
+  {
+    "id": "sneaker-19",
+    "name": "Astral Carbon High-Top Space",
+    "category": "sneakers",
+    "price": 620,
+    "rating": 5,
+    "reviewsCount": 39,
+    "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Aerospace concept sneaker crafted from real woven carbon fiber panels, neoprene inner bootie, and magnetic Fidlock buckle.",
+    "badge": "LIMITED EDITION",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)"
+    ],
+    "specs": {
+      "Closure": "German Fidlock Magnetic Quick-Snap",
+      "Panels": "Aramid & Carbon Fiber"
+    },
+    "features": [
+      "Magnetic mechanical strap fastening",
+      "Limited edition numbered series"
+    ]
+  },
+  {
+    "id": "sneaker-20",
+    "name": "Luxora Heritage Trophy Runner",
+    "category": "sneakers",
+    "price": 680,
+    "originalPrice": 780,
+    "rating": 5,
+    "reviewsCount": 178,
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The master sneaker of the entire Luxora House. Hand-assembled over 48 hours using the rarest baby calfskin, Italian hand-painted edges, and gold foiled details.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "US Men Size",
+    "options": [
+      "US 8 (EU 41)",
+      "US 9 (EU 42)",
+      "US 10 (EU 43)",
+      "US 11 (EU 44)",
+      "US 12 (EU 45)"
+    ],
+    "specs": {
+      "Assembly": "Benchmade in Florence (48 Hours per pair)",
+      "Materials": "Triple Layered Tuscan Baby Calf & 24k Gold Hardware",
+      "Sole": "Custom Luxora Geometric Outsole"
+    },
+    "features": [
+      "Hand-painted edge finishing",
+      "Wooden keepsake luxury shoebox",
+      "Lifetime resoling service"
+    ]
+  },
+  {
+    "id": "belt-01",
+    "name": "Luxora Signature Monogram Belt 35mm",
+    "category": "belts",
+    "price": 340,
+    "originalPrice": 395,
+    "rating": 4.9,
+    "reviewsCount": 145,
+    "image": "/images/belt_signature.jpg",
+    "gallery": [
+      "/images/belt_signature.jpg"
+    ],
+    "description": "The iconic reversible luxury belt featuring the polished 24k gold-plated Luxora crest buckle on vegetable-tanned French box calf leather.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)",
+      "40 in (105 cm)"
+    ],
+    "specs": {
+      "Leather": "Vegetable-Tanned French Box Calf",
+      "Hardware": "Solid Brass with 24k Gold Dip",
+      "Width": "35mm (1.4 in)",
+      "Function": "Reversible (Black / Cognac Brown)"
+    },
+    "features": [
+      "Reversible dual-tone wearability",
+      "Hand-burnished wax edges",
+      "Velvet pouch and gift box packaging"
+    ]
+  },
+  {
+    "id": "belt-02",
+    "name": "Florentine Reversible Palladium Belt",
+    "category": "belts",
+    "price": 310,
+    "rating": 4.8,
+    "reviewsCount": 92,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Minimalist brushed palladium buckle on smooth black calfskin reversing to rich chocolate brown saddle leather.",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Leather": "Tuscan Full-Grain Saddle Leather",
+      "Hardware": "Palladium-Plated Solid Brass",
+      "Width": "32mm"
+    },
+    "features": [
+      "Swivel buckle mechanism for instant reversal",
+      "Satin-brushed anti-scratch finish"
+    ]
+  },
+  {
+    "id": "belt-03",
+    "name": "Crocodile Embossed Dress Belt",
+    "category": "belts",
+    "price": 360,
+    "rating": 4.9,
+    "reviewsCount": 110,
+    "image": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "High-gloss crocodile scale embossed leather with subtle glazed finish, paired with a contoured gold equestrian pin buckle.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Leather": "Embossed Italian Calf with Glaze Finish",
+      "Hardware": "18k Champagne Gold Finish",
+      "Width": "35mm"
+    },
+    "features": [
+      "Hand-aligned scale pattern",
+      "Contoured feather edge profile"
+    ]
+  },
+  {
+    "id": "belt-04",
+    "name": "Equestrian Stirrup Bridle Leather",
+    "category": "belts",
+    "price": 280,
+    "rating": 4.7,
+    "reviewsCount": 78,
+    "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Heavy English bridle leather tallow-infused for decades of suppleness, secured with a solid brass stirrup-inspired buckle.",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)",
+      "40 in (105 cm)"
+    ],
+    "specs": {
+      "Leather": "Heavyweight English Bridle (4.5mm thick)",
+      "Hardware": "Sandcast Solid Brass",
+      "Width": "38mm"
+    },
+    "features": [
+      "Indestructible full-thickness leather",
+      "Ages into a deep vintage patina"
+    ]
+  },
+  {
+    "id": "belt-05",
+    "name": "Venetian Intrecciato Woven Belt",
+    "category": "belts",
+    "price": 390,
+    "originalPrice": 440,
+    "rating": 4.9,
+    "reviewsCount": 63,
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Masterfully hand-braided ribbons of supple nappa leather that flex seamlessly with body movement, requiring no fixed prong holes.",
+    "badge": "NEW ARRIVAL",
+    "inStock": true,
+    "optionName": "Size",
+    "options": [
+      "Medium (fits 30-34)",
+      "Large (fits 35-38)",
+      "XL (fits 39-42)"
+    ],
+    "specs": {
+      "Leather": "Hand-Woven Italian Nappa",
+      "Buckle": "Smooth Gunmetal Pin Buckle",
+      "Width": "35mm"
+    },
+    "features": [
+      "Infinitely adjustable micro-fit anywhere",
+      "Ultra-soft flexible drape"
+    ]
+  },
+  {
+    "id": "belt-06",
+    "name": "Saffiano Textured Executive Belt",
+    "category": "belts",
+    "price": 295,
+    "rating": 4.8,
+    "reviewsCount": 135,
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Cross-hatch Saffiano treated leather renowned for its scratch, water, and stain resistance in formal business settings.",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Leather": "Scratchproof Saffiano Calfskin",
+      "Hardware": "Polished Steel Chiseled Buckle",
+      "Width": "30mm Formal"
+    },
+    "features": [
+      "Impervious to daily scuffs",
+      "Clean 30mm formal suit proportion"
+    ]
+  },
+  {
+    "id": "belt-07",
+    "name": "Nocturne Matte Black DLC Buckle",
+    "category": "belts",
+    "price": 325,
+    "rating": 4.8,
+    "reviewsCount": 84,
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Monochromatic dark luxury belt featuring diamond-like carbon coated matte black buckle on oiled nubuck leather.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Leather": "Oiled Black Velour Nubuck",
+      "Hardware": "DLC Matte Coated Brass",
+      "Width": "35mm"
+    },
+    "features": [
+      "Anti-reflective all-black hardware",
+      "Soft velvety nubuck touch"
+    ]
+  },
+  {
+    "id": "belt-08",
+    "name": "Cognac Tuscan Patina Dress Belt",
+    "category": "belts",
+    "price": 330,
+    "rating": 4.9,
+    "reviewsCount": 102,
+    "image": "https://images.unsplash.com/photo-1568252542512-9fe8fe9c87bb?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1568252542512-9fe8fe9c87bb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Each piece is hand-painted in Florence with successive layers of natural dyes to achieve a warm smoky amber museum patina.",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Artisanship": "Hand-Dyed Crust Calfskin",
+      "Hardware": "Aged Brass Bevelled Buckle",
+      "Width": "34mm"
+    },
+    "features": [
+      "Multi-toned museum patina finish",
+      "Hand-stitched keeper loop"
+    ]
+  },
+  {
+    "id": "belt-09",
+    "name": "Automobili Carbon Fiber Inlay Belt",
+    "category": "belts",
+    "price": 380,
+    "rating": 4.8,
+    "reviewsCount": 51,
+    "image": "/images/belt_carbon.jpg",
+    "gallery": [
+      "/images/belt_carbon.jpg"
+    ],
+    "description": "Real aerospace carbon fiber weave inlaid directly into the solid titanium buckle plate, matched with perforated driving leather.",
+    "badge": "NEW ARRIVAL",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Inlay": "Real Woven 3K Carbon Fiber",
+      "Hardware": "Milled Titanium Frame",
+      "Leather": "Perforated Racing Calf"
+    },
+    "features": [
+      "Motorsport inspired engineering",
+      "Featherweight buckle"
+    ]
+  },
+  {
+    "id": "belt-10",
+    "name": "Cordovan Shell Master Belt",
+    "category": "belts",
+    "price": 480,
+    "rating": 5,
+    "reviewsCount": 37,
+    "image": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Crafted from genuine Horween Shell Cordovan from Chicago—tanned for six full months with natural vegetable barks and hand-glazed with glass rods.",
+    "badge": "LIMITED EDITION",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Leather": "100% Genuine Horween Shell Cordovan Color #8",
+      "Hardware": "Solid Nickel Silver",
+      "Width": "32mm"
+    },
+    "features": [
+      "Will never crease or crack",
+      "World’s most coveted equine leather"
+    ]
+  },
+  {
+    "id": "belt-11",
+    "name": "Riviera White Calf Nautical Belt",
+    "category": "belts",
+    "price": 270,
+    "rating": 4.6,
+    "reviewsCount": 44,
+    "image": "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Crisp chalk white leather with contrasting navy edges and nautical shackle buckle, ideal for summer linen attire.",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Leather": "Treated Chalk White Nappa",
+      "Hardware": "High-Polish Maritime Stainless Steel",
+      "Width": "35mm"
+    },
+    "features": [
+      "Stain-guard topcoat protection",
+      "Nautical shackle pin closure"
+    ]
+  },
+  {
+    "id": "belt-12",
+    "name": "Gaucho Hand-Tooled Western Luxury",
+    "category": "belts",
+    "price": 370,
+    "rating": 4.8,
+    "reviewsCount": 59,
+    "image": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Intricate floral scrollwork hand-carved by master leather artisans with 3-piece engraved silver buckle set (buckle, keeper, tip).",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Carving": "100% Hand-Carved Floral Acanthus",
+      "Hardware": "3-Piece Sterling Silver Plated Set",
+      "Width": "38mm"
+    },
+    "features": [
+      "Three-piece metal hardware set",
+      "Hand-rubbed antique two-tone stain"
+    ]
+  },
+  {
+    "id": "belt-13",
+    "name": "Aero Magnetic Quick-Release Belt",
+    "category": "belts",
+    "price": 290,
+    "rating": 4.7,
+    "reviewsCount": 88,
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Modern magnetic mechanical locking buckle paired with high-tensile ballistic leather webbing that locks with a satisfying snap.",
+    "inStock": true,
+    "optionName": "Size",
+    "options": [
+      "Regular (30-36 in)",
+      "Long (36-42 in)"
+    ],
+    "specs": {
+      "Buckle": "Anodized 6061 Aerospace Aluminum",
+      "Belt": "Calf Leather bonded to Mil-Spec Core"
+    },
+    "features": [
+      "Millisecond magnetic lock",
+      "No holes needed"
+    ]
+  },
+  {
+    "id": "belt-14",
+    "name": "Bespoke Double-Gilt Dress Belt",
+    "category": "belts",
+    "price": 350,
+    "rating": 4.9,
+    "reviewsCount": 96,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Double loop keeper belt in deep burgundy oxblood calfskin with mirror-polished gold buckle.",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Leather": "Aniline Oxblood Box Calf",
+      "Hardware": "18k Polished Gold Plated",
+      "Width": "32mm"
+    },
+    "features": [
+      "Dual leather keepers",
+      "Feathered padded center crest"
+    ]
+  },
+  {
+    "id": "belt-15",
+    "name": "Suede Nubuck Casual Belt Espresso",
+    "category": "belts",
+    "price": 260,
+    "rating": 4.7,
+    "reviewsCount": 72,
+    "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Ultra-plush Italian reverse suede in rich dark espresso brown with rounded brushed brass harness buckle.",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Leather": "Italian Velour Suede",
+      "Hardware": "Brushed Solid Brass",
+      "Width": "35mm"
+    },
+    "features": [
+      "Tactile velvety nap",
+      "Casual luxury versatility"
+    ]
+  },
+  {
+    "id": "belt-16",
+    "name": "Imperial Roman Laurel Crest Belt",
+    "category": "belts",
+    "price": 420,
+    "rating": 4.9,
+    "reviewsCount": 83,
+    "image": "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Intricately cast laurel wreath buckle plated in 24k satin gold on textured French caviar leather.",
+    "badge": "EXCLUSIVE",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Buckle": "Cire Perdue Lost-Wax Cast Brass with 24k Gold",
+      "Leather": "French Caviar Calfskin",
+      "Width": "38mm"
+    },
+    "features": [
+      "Lost-wax sculptural casting",
+      "Numbered artisan stamp"
+    ]
+  },
+  {
+    "id": "belt-17",
+    "name": "Perforated Rally Sport Belt",
+    "category": "belts",
+    "price": 275,
+    "rating": 4.6,
+    "reviewsCount": 65,
+    "image": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Continuous racing perforation along the strap backed by red leather for subtle flashes of contrasting motorsport color.",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Leather": "Black Calfskin with Crimson Backing",
+      "Hardware": "Gunmetal Matte Buckle",
+      "Width": "35mm"
+    },
+    "features": [
+      "Precision laser punch perforations",
+      "Dual-layer stitched edge"
+    ]
+  },
+  {
+    "id": "belt-18",
+    "name": "Siberian Shrunken Grain Leather Belt",
+    "category": "belts",
+    "price": 345,
+    "rating": 4.8,
+    "reviewsCount": 57,
+    "image": "https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Naturally shrunken grain calf with deep organic pebble texture that resists creasing and maintains structural stiffness.",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)"
+    ],
+    "specs": {
+      "Leather": "Natural Shrunken Bullhide",
+      "Hardware": "Brushed Titanium Finish",
+      "Width": "35mm"
+    },
+    "features": [
+      "Unmatched grain definition",
+      "Extreme scratch immunity"
+    ]
+  },
+  {
+    "id": "belt-19",
+    "name": "Heritage Harness Heavy Stitch Belt",
+    "category": "belts",
+    "price": 295,
+    "rating": 4.7,
+    "reviewsCount": 91,
+    "image": "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Heavy gauge ecru contrast thread saddle-stitched by hand along 4mm oak-bark tanned leather, with solid roller buckle.",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)",
+      "40 in (105 cm)"
+    ],
+    "specs": {
+      "Stitching": "Heavy Gauge Irish Waxed Linen",
+      "Leather": "Oak-Bark Tanned Leather",
+      "Width": "38mm"
+    },
+    "features": [
+      "Traditional saddle hand-stitching",
+      "Smooth roller buckle"
+    ]
+  },
+  {
+    "id": "belt-20",
+    "name": "Luxora 24K Grand Sovereign Alligator Belt",
+    "category": "belts",
+    "price": 750,
+    "originalPrice": 890,
+    "rating": 5,
+    "reviewsCount": 88,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "The supreme luxury belt in the Luxora collection. Genuine American Alligator Mississippiensis belly leather with solid 24k gold-plated buckle bearing the Luxora crest.",
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "optionName": "Waist Size",
+    "options": [
+      "32 in (85 cm)",
+      "34 in (90 cm)",
+      "36 in (95 cm)",
+      "38 in (100 cm)",
+      "40 in (105 cm)"
+    ],
+    "specs": {
+      "Leather": "CITES-Certified Genuine American Alligator Belly",
+      "Hardware": "Solid Brass with 5-Micron 24k Gold",
+      "Width": "35mm"
+    },
+    "features": [
+      "Individual CITES luxury documentation",
+      "Hardwood presentation chest",
+      "Handcrafted in Paris"
+    ]
+  }
+]

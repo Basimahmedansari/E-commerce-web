@@ -1,0 +1,7 @@
+{
+  "name": "LUXORA - Luxury E-Commerce",
+  "description": "Exclusive luxury lifestyle collection featuring premium sneakers, perfumes, timeless watches, bold sunglasses, and handcrafted leather belts with secure checkout and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
